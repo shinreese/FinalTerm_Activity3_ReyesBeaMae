@@ -1,0 +1,12 @@
+C:\Users\BEA\Downloads\Inventory-aura4\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\BEA\Downloads\Inventory-aura4\Inventory\bin\Debug\Inventory.exe
+C:\Users\BEA\Downloads\Inventory-aura4\Inventory\bin\Debug\Inventory.pdb
+C:\Users\BEA\Downloads\Inventory-aura4\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\Users\BEA\Downloads\Inventory-aura4\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\BEA\Downloads\Inventory-aura4\Inventory\obj\Debug\Inventory.RegisterForm.resources
+C:\Users\BEA\Downloads\Inventory-aura4\Inventory\obj\Debug\Inventory.SignInForm.resources
+C:\Users\BEA\Downloads\Inventory-aura4\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\BEA\Downloads\Inventory-aura4\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\BEA\Downloads\Inventory-aura4\Inventory\obj\Debug\Inventory.exe
+C:\Users\BEA\Downloads\Inventory-aura4\Inventory\obj\Debug\Inventory.pdb
+C:\Users\BEA\Downloads\Inventory-aura4\Inventory\obj\Debug\Inventory.DashboardForm.resources
